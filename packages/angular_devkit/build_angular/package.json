@@ -63,7 +63,7 @@
     "@angular/common": "^8.0.0-beta.14",
     "@angular/compiler": "^8.0.0-beta.14",
     "@angular/compiler-cli": "^8.0.0-beta.14",
-    "@angular/core": "^8.0.0-beta.14",
+    "@angular/core": "^11.0.5",
     "@angular/material": "^7.3.4",
     "@angular/platform-browser": "^8.0.0-beta.14",
     "@angular/platform-browser-dynamic": "^8.0.0-beta.14",
